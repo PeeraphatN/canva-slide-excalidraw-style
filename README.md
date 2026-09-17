@@ -4,22 +4,16 @@ Codex skill for creating simple 16:9 Canva-style presentation visuals with an Ex
 
 ## Install with npx
 
-After publishing this repository to npm:
-
-```bash
-npx canva-slide-excalidraw-style
-```
-
 To install directly from GitHub before publishing to npm:
 
 ```bash
-npx github:OWNER/REPOSITORY
+npx github:PeeraphatN/canva-slide-excalidraw-style
 ```
 
 To choose a custom Codex skills directory:
 
 ```bash
-npx canva-slide-excalidraw-style --path /path/to/.codex/skills
+npx github:PeeraphatN/canva-slide-excalidraw-style --path /path/to/.codex/skills
 ```
 
 The installer places the skill at:
