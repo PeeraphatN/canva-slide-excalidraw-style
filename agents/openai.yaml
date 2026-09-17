@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canva Excalidraw Slide"
+  short_description: "Create simple Excalidraw-style Canva slides"
+  default_prompt: "Use $canva-slide-excalidraw-style to create a simple 16:9 slide in the Excalidraw style."
